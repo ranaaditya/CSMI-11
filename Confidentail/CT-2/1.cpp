@@ -1,3 +1,6 @@
+/**
+ * @author ranaaditya aka Aditya Rana 
+ */
 #include <iostream>
 using namespace std;
 
